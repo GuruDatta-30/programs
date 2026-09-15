@@ -1,3 +1,8 @@
 # programs
-all the programs of c and java will be stored here
-author-Guru Datta
+this is my demo git repository
+all the programs of c &
+java will be stored here
+<br>
+author- Guru Datta B
+This is demo
+ 
